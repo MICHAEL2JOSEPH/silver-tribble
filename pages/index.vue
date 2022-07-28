@@ -2,7 +2,7 @@
   <div>
     <div class="container">
       <div class="about">
-        <p> Hi, My name is michael i am a web developer from </p>
+        <p></p>
       </div>
     </div>
   </div>
