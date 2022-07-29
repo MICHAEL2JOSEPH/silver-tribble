@@ -26,11 +26,11 @@
             <span> workflowmikedev@gmail.com</span>
              <label for="userId">Mobile N<span style="text-decoration: underline; color: purple;">o</span>:</label>
             <span> 09048356702 </span>
-            <p class="mk"><a about="_blank" href="https://www.facebook.com/profile.php?id=100059001940097"><img class="wf" src="./images/facebook2 logo.png" alt="facebook"></a>
-            <a href="https://www.instagram.com/crystalartzs/"><img class="wf" src="./images/instagram logo.png" alt="instagram"></a>
-            <a href="https://twitter.com/Michael81289078?t=PxhXLmAihvR5fvSZBo4DSA&s=09"><img class="wf" src="./images/twitter2 logo.png" alt="instagram"></a>
+            <p class="mk"><a target="_blank" href="https://www.facebook.com/profile.php?id=100059001940097"><img class="wf" src="./images/facebook2 logo.png" alt="facebook"></a>
+            <a target="_blank" href="https://www.instagram.com/crystalartzs/"><img class="wf" src="./images/instagram logo.png" alt="instagram"></a>
+            <a target="_blank" href="https://twitter.com/Michael81289078?t=PxhXLmAihvR5fvSZBo4DSA&s=09"><img class="wf" src="./images/twitter2 logo.png" alt="instagram"></a>
             <!-- <a href="https://github.com/MICHAEL2JOSEPH"><img class="wf" src="./images/github logo.png" alt="instagram"></a> -->
-            <a href="https://www.linkedin.com/in/michael-joseph-838498243"><img class="wf" src="./images/linkedin2 logo.png" alt="instagram"></a>
+            <a target="_blank" href="https://www.linkedin.com/in/michael-joseph-838498243"><img class="wf" src="./images/linkedin2 logo.png" alt="instagram"></a>
             </p>
             </div>
             <!-- <div>

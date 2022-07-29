@@ -2,7 +2,7 @@
   <div>
   <div class="container1">
     <div class="img">
-      <img src="./images/undraw_Developer_activity_re_39tg-removebg-preview.png" class="user-img">
+      <img src="./images/frontal image.png" class="user-img">
     </div>
     <div class="widthA">
       <h1>Hi there,</h1>
@@ -14,7 +14,7 @@
       <h3 style="color:beige;">from Nigeria 💚🤍💚.</h3>
       <p>You can reach me in the <br> <strong class="ii">contact page.</strong></p>
       <a href="./contact">Contact me</a>
-      <a href="Stoman-Resume.pdf" class="btn1" download>Download CV</a>
+      <a href="Stoman-Resume.pdf" class="btn1" download="MikeJ🧡eFrame RESUME">Download CV</a>
     </div>
     <div class="seconddiv"><div class="widthB">
        
@@ -112,7 +112,7 @@ body {
 
 .cursor {
   display: inline-block;
-  margin-left: 3px;
+  margin-left: -3px;
   width: 3px;
   background-color: #fff;
   color: #fff;
@@ -205,7 +205,7 @@ strong {
 }
 
 .user-img {
-    width: 540px;
+    width: 590px;
     position: absolute;
     right: 8%;
 }
@@ -244,7 +244,7 @@ strong {
   }
 
   .user-img {
-    width: 240px;
+    width: 300px;
     position: relative;
     right: 10px;
     top: 40px;
@@ -289,7 +289,7 @@ strong {
 
 @media screen and (max-width: 1070px)  and (min-width: 805px) {
     .user-img {
-    width: 400px;
+    width: 440px;
     height: 450px;
     position: absolute;
     right: 5px;
@@ -298,7 +298,7 @@ strong {
 
 @media screen and (max-width: 804px) and (min-width: 576px) {
     .user-img {
-    width: 450px;
+    width: 480px;
     position: absolute;
     right: 5px;
     top: 500px;

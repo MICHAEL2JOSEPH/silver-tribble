@@ -2,7 +2,7 @@
   <div>
     <div class="container">
       <div class="about">
-        <p></p>
+        <p>Hi, my name i michael joseph i am 17 yrs old.</p>
       </div>
     </div>
   </div>
