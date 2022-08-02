@@ -1,13 +1,14 @@
 export default {
-    generate: {
-        cache: {
-            ignore: [
-                // When something changed in the docs folder, do not re-build via webpack
-                'docs'
-            ]
-        }
-    },
+    // generate: {
+    //     cache: {
+    //         ignore: [
+    //             // When something changed in the docs folder, do not re-build via webpack
+    //             'docs'
+    //         ]
+    //     }
+    // },
     target: 'static',
+    // ssr: false,
     head: {
         title: 'MJPortfolio',
         meta: [

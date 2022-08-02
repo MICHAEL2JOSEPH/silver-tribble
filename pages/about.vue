@@ -14,7 +14,7 @@
       <h3 style="color:beige;">from Nigeria 💚🤍💚.</h3>
       <p>You can reach me in the <br> <strong class="ii">contact page.</strong></p>
       <a href="./contact">Contact me</a>
-      <a href="Stoman-Resume.pdf" class="btn1" download="MikeJ🧡eFrame RESUME">Download CV</a>
+      <a href="./" class="btn1">About me</a>
     </div>
     <div class="seconddiv"><div class="widthB">
        

@@ -3,8 +3,8 @@
   <div>
         <!--Add few elements to the form-->
       <form ref="form" @submit.prevent="sendEmail">
-        <div class="classes classes1">
-            <input type="text" name="from_name" placeholder="Enter your name" autofocus required/>
+        <div class="classes">
+            <input type="text" name="from_name" placeholder="Enter your name" autofocus required>
         </div>
         
         <div class="classes classes1">
